@@ -1,2 +1,3 @@
 # projects-website
-Website for the subdomain projects.westernflyer.org
+
+Website for the subdomain `projects.westernflyer.org`
